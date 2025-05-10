@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Online Ad Click Rate Prediction - IBM Challenge
 
 ## 🔍 Overview
@@ -43,5 +44,4 @@ Model predicts if a user is likely to click on an ad (`0` or `1`).
 - scikit-learn
 - matplotlib, seaborn
 
-## 👤 Author
-Made for IBM Hackathon / Challenge by [Your Name]
+
